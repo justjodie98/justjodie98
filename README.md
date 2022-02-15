@@ -7,7 +7,7 @@
 <li>Independent learning with online resources such as FreeCodeCamp, Udemy and Pirple</li>
 </ul>
 
-<p>I am currently learning the fundatmentals in JavaScript and Data structures and algorithms 💻</p> 
+<p>I am currently learning the fundamentals in JavaScript and Data structures and algorithms 💻</p> 
 <p>I'm looking to collaborate on Software Engineering projects 🤝</p>
 
 <h2>Technical Skills 🛠</h2>
