@@ -2,9 +2,8 @@
 
 <p>I am currently working on my technical, problem solving and communication skills though📝:</p>
 <ul>
-<li>Completing a mentorship program in Software Engineering with <a href ="https://www.blackvalley.co.uk/">Black Valley</a></li>
 <li>Doing a Software Engineering Apprenticeship with <a href="https://www.studentbeans.com/uk">Student Beans</a></li>
-<li>Independent learning with online resources such as FreeCodeCamp, Udemy and Pirple</li>
+<li>Developing and collaborating on a full-stack application. SheSolo Travel Companion app</li>
 </ul>
 
 <p>I am currently learning the fundamentals in JavaScript and Data structures and algorithms 💻</p> 
