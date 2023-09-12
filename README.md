@@ -6,7 +6,6 @@
 <li>Developing and collaborating on a full-stack application. SheSolo Travel Companion app</li>
 </ul>
 
-<p>I am currently learning the fundamentals in JavaScript and Data structures and algorithms 💻</p> 
 <p>I'm looking to collaborate on Software Engineering projects 🤝</p>
 
 <h2>Technical Skills 🛠</h2>
