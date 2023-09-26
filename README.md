@@ -1,4 +1,4 @@
-<h2>Hi! I'm Jodie and I am an Apprentice JavaScript Engineer 👩🏾‍💻</h2>
+<h2>Hi! I'm Jodie and I am a Frontend Software Developer👩🏾‍💻</h2>
 <h2>About Me</h2>
 <li>An apprentice software engineering graduate</li>
 <li>Currently developing and collaborating on a full-stack application called <a href="https://github.com/justjodie98/SheSolo-Travel-Companion-App"> SheSolo Travel Companion App.</a></li>
